@@ -1,0 +1,52 @@
+
+.navbutton{
+	display: inline-block;
+	padding: 10px;
+	font-size: 25px;
+	margin: 35px 100px;
+	float: right;
+	font-family: 'Lobster', cursive;
+}
+
+.specialbutton{
+	display: inline-block;
+}
+
+.logo{
+	height: 125px;
+    width: 160px;
+}
+
+ul{
+	list-style: none;
+}
+
+.center{
+	margin: 0 auto;
+	text-align: center;
+}
+
+.MainContent{
+	background-color: #b3fff0;
+}
+
+.w100{
+	width: 100%;
+}
+
+.hero{
+	width: 55%;
+}
+
+.Left{
+	float: left;
+}
+
+.Right{
+	float: right;
+}
+
+.w50{
+	width: 49%;
+}
+
